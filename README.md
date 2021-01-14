@@ -1,1 +1,2 @@
-# Project-26
+# Alfredo-Pasta
+This recipe teaches you on how to make an Alfredo Sauce (White Sauce) Pasta for two people at your home. The ingridients are in a seperate file called ingridients.md and the step-by-step recipe is in another file called recipe.md. Hope you are a good chef!!!
